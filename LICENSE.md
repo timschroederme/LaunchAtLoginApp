@@ -1,4 +1,4 @@
-###LaunchAtLoginApp License
+# LaunchAtLoginApp License
 
 Copyright (c) 2012-2014 Tim Schröder
 
